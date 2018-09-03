@@ -1,6 +1,7 @@
 # Skylarkdrone_assignment
 The code includes a total of 9 methods
- get_value_images() - It reads the images from the folder and gets the details of all the images such as longitude ,latitude,altitude and their references
+
+get_value_images() - It reads the images from the folder and gets the details of all the images such as longitude ,latitude,altitude and their references
                       It then consist of two functions degree() and altit(). degree() converts the longitude and latitude into degrees while altit converts altitude into degree
                       The whole of image data is stored in image_data which contains image name as key and lon,lat,alt as values
  
