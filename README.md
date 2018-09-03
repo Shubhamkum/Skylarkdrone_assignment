@@ -19,4 +19,10 @@ get_value_images() - It reads the images from the folder and gets the details of
  
  haversine() - It calculates the distance between 2 location using altitude.
  
+ Output file
+ assets2.csv contain all the images which are at 50m from poi
+ names.csv contain all the images which at 35m from deones
+ drone_path contains the kml file
+ 
+ 
  #point to be notes - img-0061,377,452,605 were removed because they were corrupted.
