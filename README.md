@@ -25,4 +25,4 @@ get_value_images() - It reads the images from the folder and gets the details of
  drone_path contains the kml file
  
  
- #point to be notes - img-0061,377,452,605 were removed because they were corrupted.
+ #point to be noted - img-0061,377,452,605 were removed because they were corrupted.
