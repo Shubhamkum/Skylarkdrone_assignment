@@ -1,4 +1,4 @@
-# Skylarkdrone_assignment
+#Drone image reading and calculating point of interest
 The code includes a total of 9 methods
 
 get_value_images() - It reads the images from the folder and gets the details of all the images such as longitude ,latitude,altitude and their references
